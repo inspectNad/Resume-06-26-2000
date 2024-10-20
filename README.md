@@ -11,7 +11,7 @@
 
 ## Social Profiles
 
-- [LinkedIn](www.linkedin.com/in/dante-baldonado)
+- [LinkedIn](https://www.linkedin.com/in/dante-baldonado/)
 - [GitHub](https://github.com/johndoe)
 
 ## Skills
