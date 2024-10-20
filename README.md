@@ -12,7 +12,8 @@
 ## Social Profiles
 
 - [LinkedIn](https://www.linkedin.com/in/dante-baldonado/)
-- [GitHub](https://github.com/johndoe)
+- [GitHub](https://github.com/inspectNad)
+- [Facebook](https://www.facebook.com/dBaldonadoOfficial)
 
 ## Skills
 
@@ -22,18 +23,13 @@
 
 ## Experience
 
-1. **Software Developer** at ABC Corp
-   - *Jan 2020 – Present*
-   - Developed scalable web applications using React and Node.js.
-
-2. **Backend Developer** at XYZ Ltd
-   - *June 2018 – Dec 2019*
-   - Built and maintained REST APIs using Django and Flask.
+1. **Will update soon**
+   
 
 ## Education
 
-- **B.S. in Computer Science**, University of Technology
-  - *2014 – 2018*
+- **B.S. in Information Technology**, Ateneo de Naga University
+  - *2019 – current*
 
 ## Projects
 
